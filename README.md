@@ -1,0 +1,3 @@
+# Data analysis project: GDPR in practice
+
+The goal of this project is to anonymize private data using representation learning, supervised classification,...
